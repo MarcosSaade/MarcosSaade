@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarcosSaade
+- 👀 I’m interested in web development, game development, artifitial intelligence and programing in genral
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on about any open source project
+- 📫 How to reach me marcossr2626@gmail.com
