@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Solidity and Blockchain Developement
 - 📚 Most of my repositories are simple projects that I have done in my learning process
 - 💞️ I’m looking to collaborate on about any open source project
-- 📫 How to reach me marcossr2626@gmail.com
+- 📫 How to reach me: marcossr2626@gmail.com
