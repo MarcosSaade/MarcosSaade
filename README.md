@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcosSaade
-- 👀 I’m interested in web development, Javascript frameworks, beautiful CSS, game development, artifitial intelligence and programing in genral
-- 🌱 Self leaning and volunteering in a gap year, will start CS degree in September. 
+- 👀 I’m interested in web development, game development, hacking, and artifitial intelligence.
+- 🌱 Computer Science degree in process. 
 - 📚 My repositories are projects that I have done in my learning process. 
 - 💞️ I’m looking to collaborate on about any open source project. 
 - 📫 How to reach me: marcossr2626@gmail.com
