@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarcosSaade
 - 👀 I’m interested in cyberescurity, web development, and artifitial intelligence.
-- 🌱 Computer Science degree in process. 
-- 📚 Chck me out on [Medium](https://medium.com/@marcos.saade)
+- 🌱 Data Science and Mathematics degree in process. 
 - 💞️ I’m looking to collaborate on about any open source project. 
 - 📫 How to reach me: marcossr2626@gmail.com
