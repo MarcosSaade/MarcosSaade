@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosSaade
 - 👀 I’m interested in artificial intelligence, cyberescurity, and data science.
 - 🌱 Data Science and Mathematics student at Tec de Monterrey, Mexico City. 
-- 💞️ I’m looking to collaborate on about any open source project. 
+- 💞️ I’m currently working on a research paper on dementia recognition via AI voice analysis. 
 - 📫 How to reach me: marcossr2626@gmail.com
