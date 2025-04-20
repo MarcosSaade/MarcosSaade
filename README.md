@@ -4,6 +4,6 @@
 
 🧠 Currently researching Machine Learning approaches for cognitive decline detection in the Center for Microsystems and Biodesign.
 
-🌐 Check out my projects, writeups, and more: <a href="https://marcossaade.github.io" target="_blank" rel="noopener noreferrer">marcossaade.github.io</a>
+🌐 Check out my projects, writeups, and more: [marcossaade.github.io](https://marcossaade.github.io)
 
 📬 Reach out anytime: marcossr2626@gmail.com
