@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Marcos Saade
 
-🎓 Data Science & Mathematics student at Tecnológico de Monterrey (CDMX)  
-🧠 Passionate about Math, Software Development, and applied ML.
+🎓 Data Scientist, Mathematician, and Software Engineer  
+🧠 Passionate about Quantitative Finance, Machine Learning, and Computer Vision.
 
 ## 🌐 Find Me Elsewhere
 
