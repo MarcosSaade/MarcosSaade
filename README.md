@@ -10,7 +10,7 @@ I make AI systems faster, cheaper, and more reliable, and I back design decision
 | [**DementiaDetection**](https://github.com/MarcosSaade/DementiaDetection) | Code for my paper on screening for Alzheimer's from Spanish speech: 80+ acoustic features and an SVM, 80% cross-validated accuracy, ROC AUC 0.90. |
 | [**optimal-sp500**](https://github.com/MarcosSaade/optimal-sp500) | Daily S&P 500 allocation with LightGBM, meta-labeling and Kelly sizing, validated with purged time-series CV: mean Sharpe 1.49 across 5 folds. |
 | [**OrthoApp**](https://github.com/MarcosSaade/OrthoApp) | Clinical foot-scanning app (PyQt + OpenCV) in daily use at two clinics, about 4,000 patients a year. |
-| [**SugarZero**](https://github.com/MarcosSaade/SugarZero) | AlphaZero-style self-play for a board game I invented, and why its training plateaued. |
+| [**SugarZero**](https://github.com/MarcosSaade/SugarZero) | AlphaZero reimplementation for a board game I invented, scored against an exact solver of the game: best move in 92% of critical positions. |
 | [**NeuroCapture**](https://github.com/MarcosSaade/NeuroCapture) | Research data platform for speech recordings, cognitive tests and 150+ audio features (Electron, FastAPI, PostgreSQL). |
 
 Also: city-scale walkability research with UT Austin, where I rewrote a geospatial pipeline in C++/OpenMP (~5,000x faster end to end) and ran it on the CIMAT supercomputer.
