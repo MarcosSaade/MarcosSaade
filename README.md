@@ -1,21 +1,26 @@
 ## Marcos Saade | Machine Learning Engineer
 
-I am a Machine Learning Engineer and Data Scientist focused on building high-performance, production-ready systems. With a rigorous background in **Mathematics** and **Software Engineering**, I specialize in developing scalable **Machine Learning** architectures and **Computer Vision** solutions that drive measurable business value.
+I make AI systems faster, cheaper, and more reliable, and I back design decisions with measurements: load tests, held-out evaluations with confidence intervals, and cost models. Data Science and Mathematics Engineering at Tecnológico de Monterrey; previously edge AI at Qualcomm.
 
-My approach combines mathematical precision with a software engineering mindset, ensuring that models are not only accurate but also robust, maintainable, and efficiently integrated into larger technical ecosystems. I am passionate about solving complex problems through algorithmic excellence and data-driven decision-making.
+### Selected work
 
----
+| Project | What it shows |
+|---|---|
+| [**VMS**](https://github.com/MarcosSaade/VMS) | Multi-camera video analytics built end to end: YOLO11 + ByteTrack, natural-language questions compiled to validated SQL (95.8% execution accuracy on a frozen test set), vLLM serving, LoRA fine-tuning, drift detection, 1,400+ tests in CI. |
+| [**DementiaDetection**](https://github.com/MarcosSaade/DementiaDetection) | Code for my paper on screening for Alzheimer's from Spanish speech: 80+ acoustic features and an SVM, 80% cross-validated accuracy, ROC AUC 0.90. |
+| [**optimal-sp500**](https://github.com/MarcosSaade/optimal-sp500) | Daily S&P 500 allocation with LightGBM, meta-labeling and Kelly sizing, validated with purged time-series CV: mean Sharpe 1.49 across 5 folds. |
+| [**OrthoApp**](https://github.com/MarcosSaade/OrthoApp) | Clinical foot-scanning app (PyQt + OpenCV) in daily use at two clinics, about 4,000 patients a year. |
+| [**SugarZero**](https://github.com/MarcosSaade/SugarZero) | AlphaZero-style self-play for a board game I invented, and why its training plateaued. |
+| [**NeuroCapture**](https://github.com/MarcosSaade/NeuroCapture) | Research data platform for speech recordings, cognitive tests and 150+ audio features (Electron, FastAPI, PostgreSQL). |
 
-### Technical Focus
+Also: city-scale walkability research with UT Austin, where I rewrote a geospatial pipeline in C++/OpenMP (~5,000x faster end to end) and ran it on the CIMAT supercomputer.
 
-* **Machine Learning:** End-to-end model development and serving.
-* **Computer Vision:** Object detection, image segmentation, and spatial intelligence.
-* **Data Engineering:** Designing efficient pipelines for large-scale data processing and analysis.
+### Tools
 
----
+**ML:** PyTorch, scikit-learn, LightGBM, YOLO, OpenCV, LoRA, vLLM, ONNX Runtime, TensorRT, quantization
 
-### Connect With Me
+**Systems:** Python, C++, SQL, FastAPI, PostgreSQL, Docker, GitHub Actions, OpenTelemetry, Grafana, OpenMP
 
-* **Portfolio & Blog:** [marcossaade.github.io](https://marcossaade.github.io)
-* **Email:** [marcossr2626@gmail.com](mailto:marcossr2626@gmail.com)
-* **LinkedIn:** [linkedin.com/in/marcos-saade](https://www.linkedin.com/in/marcos-saade/)
+### Contact
+
+[marcossaade.github.io](https://marcossaade.github.io) · [LinkedIn](https://www.linkedin.com/in/marcos-saade/) · [marcossr2626@gmail.com](mailto:marcossr2626@gmail.com)
