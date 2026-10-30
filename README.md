@@ -6,7 +6,7 @@ My approach combines mathematical precision with a software engineering mindset,
 
 ---
 
-### 🛠️ Technical Focus
+### Technical Focus
 
 * **Machine Learning:** End-to-end model development and serving.
 * **Computer Vision:** Object detection, image segmentation, and spatial intelligence.
@@ -14,7 +14,7 @@ My approach combines mathematical precision with a software engineering mindset,
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 * **Portfolio & Blog:** [marcossaade.github.io](https://marcossaade.github.io)
 * **Email:** [marcossr2626@gmail.com](mailto:marcossr2626@gmail.com)
